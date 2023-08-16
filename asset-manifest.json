@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bikasraj/randomquote.github.io/static/css/main.5b82a6a8.css",
+    "main.js": "/bikasraj/randomquote.github.io/static/js/main.89fb8f62.js",
+    "index.html": "/bikasraj/randomquote.github.io/index.html",
+    "main.5b82a6a8.css.map": "/bikasraj/randomquote.github.io/static/css/main.5b82a6a8.css.map",
+    "main.89fb8f62.js.map": "/bikasraj/randomquote.github.io/static/js/main.89fb8f62.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b82a6a8.css",
+    "static/js/main.89fb8f62.js"
+  ]
+}
